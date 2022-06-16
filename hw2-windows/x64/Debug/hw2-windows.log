@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(374,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(374,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(420,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(425,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(446,34): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(446,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(446,74): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(463,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(463,65): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(463,90): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(464,28): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(464,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\hw4.h(464,80): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(12,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(14,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(19,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(336,45): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(344,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(345,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(401,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(401,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ece\cse167\new-hw4\hw2-windows\main.cpp(402,2): warning C4551: function call missing argument list
+  Transform.cpp
+  grader.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(127,1): warning C4005: 'CALLBACK': macro redefinition
+D:\ece\cse167\new-hw4\hw2-windows\include\GL\glut.h(33): message : see previous definition of 'CALLBACK'
+  Generating Code...
+  hw2-windows.vcxproj -> D:\ece\cse167\new-hw4\x64\Debug\hw2-windows.exe
